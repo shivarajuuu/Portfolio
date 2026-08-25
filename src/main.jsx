@@ -85,7 +85,7 @@ function App() {
       <section id="contact" className="contact section-pad reveal">
         <p className="eyebrow">Get in touch</p>
         <h2>Start a<br /><em>conversation.</em></h2>
-        <a className="contact-email" href="mailto:hello@abheeramz@gmail.com">hello@abheeramz@gmail.com <span>↗</span></a>
+        <a className="contact-email" href="mailto:abheeramz@gmail.com">abheeramz@gmail.com <span>↗</span></a>
         <a className="contact-email contact-phone" href="tel:+918790926322">+91 87909 26322 <span>↗</span></a>
         <div className="contact-footer"><span>© 2026 ABHIRAM</span></div>
       </section>
